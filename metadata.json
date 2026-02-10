@@ -1,0 +1,8 @@
+{
+  "name": "Zayn Griffe - Salão de Beleza",
+  "description": "Exclusivo salão de beleza em Maputo, oferecendo serviços premium de cabelo, unhas e estética com uma assistente de beleza inteligente integrada.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
